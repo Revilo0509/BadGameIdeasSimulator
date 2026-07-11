@@ -1,0 +1,3 @@
+[submodule "extern/Shirag"]
+	path = extern/Shirag
+	url = https://github.com/ShiralynDev/Shirag
