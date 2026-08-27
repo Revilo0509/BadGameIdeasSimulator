@@ -1,0 +1,209 @@
+{
+  "date": "2026-08-27T16:04:45.347460027+02:00",
+  "data": {
+    "CMAKE_CXX_STANDARD": {
+      "location": {
+        "uri": "file:///home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 4
+          },
+          "end": {
+            "line": 3,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+      "is_function": false
+    },
+    "DISCORD_SDK_ROOT": {
+      "location": {
+        "uri": "file:///home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 26,
+            "character": 4
+          },
+          "end": {
+            "line": 26,
+            "character": 20
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+      "is_function": false
+    },
+    "CMAKE_EXPORT_COMPILE_COMMANDS": {
+      "location": {
+        "uri": "file:///home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 7,
+            "character": 4
+          },
+          "end": {
+            "line": 7,
+            "character": 33
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+      "is_function": false
+    },
+    "CMAKE_BUILD_TYPE": {
+      "location": {
+        "uri": "file:///home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 5,
+            "character": 4
+          },
+          "end": {
+            "line": 5,
+            "character": 20
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+      "is_function": false
+    },
+    "DISCORD_LIB_PATH": {
+      "location": {
+        "uri": "file:///home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 40,
+            "character": 8
+          },
+          "end": {
+            "line": 40,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+      "is_function": false
+    },
+    "BUILD_EXAMPLES": {
+      "location": {
+        "uri": "file:///home/revilo/Projects/Repositories/BadGameIdeasSimulator/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 11,
+            "character": 4
+          },
+          "end": {
+            "line": 11,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/revilo/Projects/Repositories/BadGameIdeasSimulator/CMakeLists.txt",
+      "is_function": false
+    },
+    "CMAKE_CXX_STANDARD_REQUIRED": {
+      "location": {
+        "uri": "file:///home/revilo/Projects/Repositories/BadGameIdeasSimulator/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 4
+          },
+          "end": {
+            "line": 4,
+            "character": 31
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/revilo/Projects/Repositories/BadGameIdeasSimulator/CMakeLists.txt",
+      "is_function": false
+    },
+    "DISCORD_SDK_LIB_DIR": {
+      "location": {
+        "uri": "file:///home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 27,
+            "character": 4
+          },
+          "end": {
+            "line": 27,
+            "character": 23
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+      "is_function": false
+    },
+    "DISCORD_SDK_INCLUDE_DIR": {
+      "location": {
+        "uri": "file:///home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 29,
+            "character": 4
+          },
+          "end": {
+            "line": 29,
+            "character": 27
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+      "is_function": false
+    },
+    "DISCORD_SDK_BIN_DIR": {
+      "location": {
+        "uri": "file:///home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 28,
+            "character": 4
+          },
+          "end": {
+            "line": 28,
+            "character": 23
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+      "is_function": false
+    },
+    "CMAKE_CXX_FLAGS_DEBUG": {
+      "location": {
+        "uri": "file:///home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 4
+          },
+          "end": {
+            "line": 4,
+            "character": 25
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+      "is_function": false
+    },
+    "DISCORD_SHARED_LIB": {
+      "location": {
+        "uri": "file:///home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 41,
+            "character": 8
+          },
+          "end": {
+            "line": 41,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /home/revilo/Projects/Repositories/BadGameIdeasSimulator/extern/Shirag/CMakeLists.txt",
+      "is_function": false
+    }
+  }
+}
