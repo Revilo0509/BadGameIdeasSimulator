@@ -1,4 +1,4 @@
-FROM docker.io/node:alpine AS builder
+FROM docker.io/node:26-alpine AS builder
 RUN npm install -g corepack@latest && \
   corepack enable
 WORKDIR /app
