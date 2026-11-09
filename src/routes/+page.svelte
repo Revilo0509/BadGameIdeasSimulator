@@ -1,5 +1,5 @@
 <script lang="ts">
-import ModeToggle from "$lib/components/ModeToggle.svelte";
+import ModeToggle from "#lib/components/ModeToggle.svelte";
 
 let input_content = $state("");
 
